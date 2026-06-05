@@ -1,3 +1,5 @@
+package part1;
+
 public class NumberClassifier {
     public static String classify(int number) {
         if (number < 0) return "-> отрицательное";

@@ -1,3 +1,5 @@
+package part1;
+
 public class GradeChecker {
     public static String getGrade(int score){
         switch (score / 10) {

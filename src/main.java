@@ -1,3 +1,6 @@
+import part1.GradeChecker;
+import part1.NumberClassifier;
+
 public static void main(String[] args) {
     System.out.println("\n=== 1.1 Классификация числа ===\n");
 
